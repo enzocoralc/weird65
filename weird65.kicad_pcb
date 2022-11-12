@@ -1565,7 +1565,7 @@
 
   (footprint "customs:ProMicro" (layer "F.Cu")
     (tstamp 46ba3335-da7e-4f7b-83f2-f52af03bdb8d)
-    (at 580.5 288.392 -90)
+    (at 465.74 288.392 -90)
     (attr through_hole)
     (fp_text reference "MCU1" (at 0 0 90) (layer "F.SilkS") hide
         (effects (font (size 1.27 1.27) (thickness 0.15)))
