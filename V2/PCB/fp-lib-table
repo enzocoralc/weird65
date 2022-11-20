@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "weird65-footprints")(type "KiCad")(uri "${KIPRJMOD}/weird65-footprints")(options "")(descr ""))
+)
