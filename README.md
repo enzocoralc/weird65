@@ -1,2 +1,2 @@
 # weird65
- small 40% qith num and F rows
+ small 40% with num and F rows
